@@ -1,6 +1,8 @@
-Gitの練習
+﻿Gitの練習
 基本的なワークフロー
 ・git add
 ・git commit
 ・git add
 ・git status
+・git diff
+・qqqqqqqqqqqqqqqqqq
