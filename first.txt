@@ -3,3 +3,11 @@
 ・git add
 ・git commit
 ・git add
+・git status
+・git diff
+・qqqqqqqqqqqqqqqqqq
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+gifdvfvlsdnsdnb
+vdsfndnbse
+dsfodfjjdsf
+dfdjvofjvsb
